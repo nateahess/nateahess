@@ -1,5 +1,6 @@
 ### Hi there 👋
-> Thinks for checking out my GitHub! 
+> Thanks for checking out my GitHub! 
+> 🔭 I’m currently working on ![mmap](https://github.com/nahberry/mmap)
 
 <!--
 **nahberry/nahberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

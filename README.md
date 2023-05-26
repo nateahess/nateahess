@@ -1,6 +1,5 @@
 ### Hi there 👋
 > Thanks for checking out my GitHub! 
-> 🔭 I’m currently working on [calabar-toolkit](https://github.com/nahberry/calabar-toolkit)
 
 <!--
 **nahberry/nahberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,6 +4,7 @@
 
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=nateahess&data=followers,repositories,stars,commits)
 
+<img src="https://github-readme-stats.vercel.app/api?username=nateahess&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nateahess&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 

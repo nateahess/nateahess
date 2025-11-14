@@ -1,10 +1,6 @@
 ### Hi there 👋
 > Thanks for checking out my GitHub!
 
-<img src="https://github-readme-stats.vercel.app/api?username=nateahess&show_icons=true&theme=gotham" alt="github stats" width="75%" align="left"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nateahess&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
-
 <!--
 **nahberry/nahberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

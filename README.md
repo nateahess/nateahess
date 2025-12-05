@@ -1,6 +1,10 @@
 ### Hi there 👋
 > Thanks for checking out my GitHub!
 
+Find me on [Bluesky](https://bsky.app/profile/nateahess.bsky.social) and [Medium](https://nateahess.medium.com/)
+
+
+
 <!--
 **nahberry/nahberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

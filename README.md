@@ -1,7 +1,7 @@
 ### Hi there 👋
 > Thanks for checking out my GitHub!
 
-Find me on [Bluesky](https://bsky.app/profile/nateahess.bsky.social) and [Medium](https://nateahess.medium.com/)
+Find me on [Medium](https://nateahess.medium.com/)
 
 
 
